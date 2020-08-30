@@ -37,18 +37,16 @@ For example [here is the UDel students' CoC](http://www1.udel.edu/stuguide/18-19
  **Microaggressions**
 
 We all come from different places and have different level and kind of privilege, and oppression. 
-Because of this it is impossible to completely understand another person's vulnerabilities. 
 
-This leads to _microaggressions_: 
-An example of a microaggression, one that was exposed in the UD students's letter to the administration, may be to ask an asian student to adopt a western name with an easier pronunciation. 
-The person that ask likely does not realize tht this imposes the concept that there is a "norm" that is europocentric and white.
+Because of this it is impossible to completely understand another person's vulnerabilities.
 
-Microaggressions are ways in which we perpetrate other people's oppressions in suddle, often unintentional ways. I an a white middle-class-raised, middle-class woman. In that I hold a lot of privilege. 
-If with my privilege I mess up and committ microaggression, please call me out on it! You can turn on your microphon and say "ouch" if you are comfortable to do it in front of the class. Or you can talk to me personally after class.
-If other class members do it let them know. Ask me if you want my intervention if you prefer not doing it directly. 
+This leads to microaggressions: ways in which we perpetrate oppressions in subtile, often unintentional ways. 
 
-If someone points out that you something you said or did is a microaggression dont be defensive! Listen and committ to understand. There should be no assumption that you had malignant intensions. 
-This way we can move forward and grow together.
+An example of a microaggression, one that was exposed in the UD students's letter to the administration, may be to ask an asian student to adopt a western name with an easier pronunciation. The person that ask likely does not realize tht this imposes the concept that there is a "norm" that is europocentric and white.
+
+I am a white middle-class-raised, middle-class woman. In that I have a lot of privilege. If with my privilege I mess up and "committ" a microaggression, *_please call me out on it_*! You can turn on your microphone and say "ouch" if you are comfortable to do it in front of the class. Or you can talk to me personally after class. If class members do it let them know in the same way. Ask me if you want my intervention if you prefer not doing it directly.
+
+If someone points out that you something you "said" or "did" is a microaggression don't be defensive! Listen and commit to understand. There should be no assumption that you had malignant intensions. This way we can move forward and grow together.
 
 ## Group Interactions and meeting conduct:
 
