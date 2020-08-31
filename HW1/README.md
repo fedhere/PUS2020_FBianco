@@ -7,6 +7,8 @@ Create an account on github
 
 https://github.com/join?source=logi
 
+[new account image](Screen Shot 2020-08-30 at 7.16.41 PM.png)
+
 Create a new repository called PUS2020_<Firstinitial><Lastname>, for example mine is PUS2020_FBianco
 
 make sure the repository is set to public and that you select the option "Add a README file"
