@@ -15,5 +15,5 @@ Edit the README file describeing what your background is and what you expect to 
 
 Read the class Code of Conduct and answer questions about it in this form.
 
-Include the URL of your PUS repo with the (form response)[https://forms.gle/W6QjYjLGWp7nF7w37]
+Include the URL of your PUS repo with the [form response](https://forms.gle/W6QjYjLGWp7nF7w37)
 
