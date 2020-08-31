@@ -6,7 +6,7 @@ SPPA667: GENERATING AND INTERPRETING EVIDENCE FOR EVIDENCE-BASED DECISIONS IN UR
 
 
 
-**Grades are based on **
+**Grades are based on:**
 
 - 15% pre-class questions
 - 15% labs performance and participation
