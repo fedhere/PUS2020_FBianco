@@ -21,7 +21,7 @@ make sure the repository is set to public and that you select the option "Add a 
 Edit the README file describeing what your background is and what you expect to learn from the class.
 
 
-![new README image](https://github.com/fedhere/PUS2020_FBianco/blob/master/HW1/Screen%20Shot%202020-08-30%20at%207.26.12%20PM.png)
+![new README image](https://github.com/fedhere/PUS2020_FBianco/blob/master/HW1/Screen%20Shot%202020-08-30%20at%207.18.00%20PM.png)
 
 Read the class Code of Conduct and answer questions about it in this form.
 
