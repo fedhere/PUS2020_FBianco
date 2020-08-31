@@ -7,7 +7,7 @@ Create an account on github
 
 https://github.com/join?source=logi
 
-<img src="https://github.com/fedhere/PUS2020_FBianco/blob/master/HW1/Screen%20Shot%202020-08-30%20at%207.08.59%20PM.png"  width="100" height="100">
+<img src="https://github.com/fedhere/PUS2020_FBianco/blob/master/HW1/Screen%20Shot%202020-08-30%20at%207.08.59%20PM.png"  width="500">
                                                                                                                                                 
 Create a new repository called PUS2020_<Firstinitial><Lastname>, for example mine is PUS2020_FBianco
 
