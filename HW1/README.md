@@ -1,6 +1,9 @@
 **Assigned Reading:**
 
+https://www.un.org/development/desa/en/news/population/2018-revision-of-world-urbanization-prospects.html
 
+
+World Urbanization Prospects from the US. Only the front page is assigned for reading, but I encourage you to explore the prospectus as well!
 
 # Assignment 1:
 Create an account on github
