@@ -17,7 +17,7 @@ Follow instructions in the [skeleton notebook](https://github.com/fedhere/PUS202
 
 You can open the notebook or create a new notebook and copy the content of the cells where needed. 
 
-**Return the assignment by saving it to your github repository in the folder HW2*
+**Return the assignment by saving it to your github repository in the folder HW2**
 
 <img src="https://github.com/fedhere/PUS2020_FBianco/blob/master/HW2/Screen%20Shot%202020-09-09%20at%2011.16.24%20PM.png"  width="500">
 <img src="https://github.com/fedhere/PUS2020_FBianco/blob/master/HW2/Screen%20Shot%202020-09-09%20at%2011.16.55%20PM.png"  width="500">
