@@ -13,6 +13,10 @@ Note the flowchart of the data analysis in the second page and try to remember t
 
 You are encouraged to work in groups!! I advise you look for partners to work with on slack. If you need help finding a partner let me know.
 
+Follow instructions in the [skeleton notebook](https://github.com/fedhere/PUS2020_FBianco/blob/master/HW2/PhillyParks_instructions.ipynb) 
+
+You can open the notebook or create a new notebook and copy the content of the cells where needed. 
+
 Return the assignment by saving it to your github repository 
 
 <img src="https://github.com/fedhere/PUS2020_FBianco/blob/master/HW2/Screen%20Shot%202020-09-09%20at%2011.16.24%20PM.png"  width="500">
@@ -29,9 +33,6 @@ Remember to add a README.md to your github repository folger 2 that states
 Each student should turn in a notebook of their own. The notbeooks do not need to look different. The README should be individual and be done by yourself
 
 
-Follow instructions in the [skeleton notebook](https://github.com/fedhere/PUS2020_FBianco/blob/master/HW2/PhillyParks_instructions.ipynb) 
-
-You can open the notebook or create a new notebook and copy the content of the cells where needed. 
 
 Rememeber that each quesition should be answered and each figure should have a caption that discusses: what is shown, and why (i.e. what is noticeable about what is shown).
 
