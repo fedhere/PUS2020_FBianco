@@ -36,4 +36,4 @@ Each student should turn in a notebook of their own. The notbeooks do not need t
 
 Rememeber that each quesition should be answered and each figure should have a caption that discusses: what is shown, and why (i.e. what is noticeable about what is shown).
 
-Help yourself with the resources in the classdemos, in the [PandasCh7.ipynb](https://github.com/fedhere/PUS2020_FBianco/blob/master/HW2/PandasCh7.ipynb) notebook in this folder, and in the python bootcamp https://github.com/fedhere/PyBOOT
+Help yourself with the resources in the classdemos, in the [PandasCh7.ipynb](https://github.com/fedhere/PUS2020_FBianco/blob/master/HW2/PandasCh7.ipynb) notebook in this folder, and in the python bootcamp https://github.com/fedhere/PyBOOT and ask questions in #hw2 on slack
