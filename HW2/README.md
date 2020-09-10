@@ -13,7 +13,7 @@ Note the flowchart of the data analysis in the second page and try to remember t
 
 You are encouraged to work in groups!! I advise you look for partners to work with on slack. If you need help finding a partner let me know.
 
-Follow instructions in the [skeleton notebook](https://github.com/fedhere/PUS2020_FBianco/blob/master/HW2/PhillyParks_instructions.ipynb) 
+**Follow instructions in the [skeleton notebook](https://github.com/fedhere/PUS2020_FBianco/blob/master/HW2/PhillyParks_instructions.ipynb)** 
 
 You can open the notebook or create a new notebook and copy the content of the cells where needed. 
 
@@ -22,7 +22,7 @@ You can open the notebook or create a new notebook and copy the content of the c
 <img src="https://github.com/fedhere/PUS2020_FBianco/blob/master/HW2/Screen%20Shot%202020-09-09%20at%2011.16.24%20PM.png"  width="500">
 <img src="https://github.com/fedhere/PUS2020_FBianco/blob/master/HW2/Screen%20Shot%202020-09-09%20at%2011.16.55%20PM.png"  width="500">
 
-Remember to add a README.md to your github repository folder HW2 that states
+**Remember to add a README.md to your github repository folder HW2** that states
 
 1 - what the homework was about in your own words
 
