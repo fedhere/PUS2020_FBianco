@@ -1,3 +1,12 @@
+# Reading: 
+
+**1,500 scientists lift the lid on reproducibility**
+https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970
+
+This is an article about the "crises of reproducibility". Read the article and inspect the figures carefully. You will be asked to describe one of the figure in the quizzes, its content, how to read it, and what it demonstrates (the take home point)
+
+
+
 # Assignment 4
 
 First: get a census API key - you have to request it by email
