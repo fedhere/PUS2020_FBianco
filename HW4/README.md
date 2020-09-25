@@ -1,0 +1,20 @@
+# Assignment 4
+
+First: get a census API key - you have to request it by email
+
+https://api.census.gov/data/key_signup.html
+
+An API key comes with responsibilities! never just print it out in a notebook. 
+
+For this homework, I want you to create a csv file called myapis.csv and upload it on your google drive. The code I shared as a skeleton notebook will read it in and your API key will be known in the notebook. 
+
+The csv file should look like
+
+census,XXXXXXXXXXXXXXXXXXX
+
+where XXXXXXXXXXXXXXXXXXX is your API key. 
+
+This way a notebook can mount your google drive and ```myAPIkey =  pd.read_csv("myapis.csv")["census"]``` would save the API key in the variable myAPIkey. 
+**Dont print it in the notebook!**
+
+Follow the notebook instructions to produce coropleths of DE counties and census tracts
