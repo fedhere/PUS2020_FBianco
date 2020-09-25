@@ -13,9 +13,9 @@ First: get a census API key - you have to request it by email
 
 https://api.census.gov/data/key_signup.html
 
-An API key comes with responsibilities! never just print it out in a notebook. 
+An API key comes with responsibilities (including legal responsibilities!) - never just print it out in a notebook. 
 
-For this homework, I want you to create a csv file called myapis.csv and upload it on your google drive. The code I shared as a skeleton notebook will read it in and your API key will be known in the notebook. 
+For this homework, I want you to create a csv file called myapis.csv and upload it on your google drive in the main folder (My Drive). The code I shared as a skeleton notebook will read it in and your API key will be known in the notebook solong as you call it ```myapis.csv```. 
 
 The csv file should look like
 
