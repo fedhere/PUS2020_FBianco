@@ -21,3 +21,4 @@ the [linear regression notebook](https://github.com/fedhere/PUS2020_FBianco/blob
 
 and the [slides](slides.com/federicabianco/PUS2020_5) as references
 
+The class lectures are also uploaded on canvas, including today's asynchronous
