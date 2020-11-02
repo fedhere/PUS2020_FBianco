@@ -1,3 +1,20 @@
+# Homework
+Make a single plot
+
+Create a plot, of whatever data (and models if you want) you choose from open data. The plot can be about anything relevant to this class or your research. 
+
+You can make the plot in any coding language you want (e.g. python, javascript, R...), as long as you upload the code that generates the plot onto your repo (which means no tableau, or any other non reproducible).
+
+If it is a redesign of a plot you already made (e.g. for your research) upload the original as well
+
+The plot needs to be uploaded onto the HW9 folder in your github PUS2020 repo and be embedded in the README.md That means: when I click on the HW9 link the plot must be rendered in the front page of the repo. Your readme must contain the plot, and a brief caption. If it is an interactive graphic, upload a static image of it in the README and provide a link to the interactive version.
+
+Think about all the considerations we have made about visualization in the last 3 classes.
+
+# Watch
+Jer Thorp TED-ex Vancuver talk. https://www.youtube.com/watch?v=Q9wcvFkWpsM&app=desktop
+
+
 # Reading
 
 1. How W.E.B. Du Bois Meticulously Visualized 20th-Century Black America
@@ -6,16 +23,15 @@ https://hyperallergic.com/476334/how-w-e-b-du-bois-meticulously-visualized-20th-
 2. Pick one from the 7 papers listed in this article https://web.archive.org/web/20190226213626/http://fellinlovewithdata.com/guides/7-classic-foundational-vis-papers.  By Enrico Bertini (NYU) 
 
 The content of the article is here: 
-7 Classic Foundational Vis Papers You Might not Want to Publicly Confess you Don’t Know
-43 Replies
-old papers(In my last post I introduced the idea of regularly posting research material in this blog as a way to bridge the gap between researchers and practitioners. Some people kindly replied to my call for feedback and the general feeling seems to be like: “cool go on! rock it! we need it!”. Ok, thanks guys your encouragement is very much needed. I love you all. So, here is a “researchy” post. It is not the same style I’ve used in my research posts in infosthetics but I think you will find it useful anyway.)
+### 7 Classic Foundational Vis Papers You Might not Want to Publicly Confess you Don’t Know
+Enrico Bertini, 2011
 
 Even if I am definitely not a veteran of infovis research (far from it) I started reading my first papers around the year 2000 and since then I’ve never stopped. One thing I noticed is that some papers recur over and over and they really are (at least in part) the foundation of information visualization. Here is a list of those that:
 
-come from the very early days of infovis
-are foundational
-are cited over and over
-I like a lot
+- come from the very early days of infovis
+- are foundational
+- are cited over and over
+- I like a lot
 Of course this doesn’t mean these are the only ones you should read if you want to dig into this matter. Some other papers are foundational as well. For sure a side effect of the maturation of this field is that some newer papers are more solid and deep and I had to refrain myself to not include them in the list. But this is a collection of classics. A list of papers you just cannot avoid to know unless you want to risk a bad impression at VisWeek (ok ok it’s a joke … but there’s a pinch of truth in it). A retrospective. Definitely a must read. Call me nostalgic.
 
 Advice: in order to really appreciate them you have to think they have all been written during the ’90s (some even in the ’80s!).
