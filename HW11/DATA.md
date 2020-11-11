@@ -15,4 +15,4 @@ When you plot them in a choropleth you may not be able to see a lot ... there ar
 Remove these outliers. 
 
 # Census data
-we have already worked with the census data in DE, see 
+we have already worked with the census data in DE, see HW4
