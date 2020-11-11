@@ -23,7 +23,7 @@ work at the maximum granularity that the data allows.
 
 9) Merge all zipcode level df
 
-10) Cluster the census tracts on these four features (using a Eucledian distance and choosing whichever clustering model you want)
+10) Cluster the census tracts on these four features (using a Eucledian distance and choosing whichever clustering model you want). Remember that before whitening you have to whiten (or standardize) the data
 
 11) Identify the census tracts that have changed cluster assignment (those that are now associated with a different group of census tracts) and show a choropleth of the clusters in 2010, 2000 and a choropleth of the cluster changes. (Once you get through this, you have done most of the heavy lifting! The rest is building upon this work.)
 
