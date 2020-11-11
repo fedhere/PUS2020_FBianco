@@ -64,7 +64,7 @@ Y = WX has covariance I
 
 When the covariance of your features needs to be preserved. For example when you cluster time series: if you want to cluster time series based on similar time evolution you can do that by defining a distance time-stamp-by-time-stamp: for example a Eucledian distance 
 
-    D = $Sum\_i (Sum\_j,k |y\_j(t\_i) - y\_k(t\_i)|)$
+    D = Sum\_i (Sum\_j,k |y\_j(t\_i) - y\_k(t\_i)|)
 
 In this case whitening would modify the intrinsic shape of the time series, and thus modify the true distance. 
 In this case, however, we normalize the feature vectore by observation (by row) so that the mean of each observattion (row of your dataframe) is 0 and the standard deviation is 1:
