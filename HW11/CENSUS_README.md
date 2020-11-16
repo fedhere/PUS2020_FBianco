@@ -1,4 +1,4 @@
-# if you are having a hard time finding the census data you can use these files that I had saved in the repo:
+# if you are having a hard time finding the census data you can use these files that I had saved in the repo in the data folder:
 
 # [dec_00_sf1_dp1.csv](../data/dec_00_sf1_dp1.csv)
 
