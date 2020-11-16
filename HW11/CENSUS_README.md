@@ -1,8 +1,8 @@
 # if you are having a hard time finding the census data you can use these files that I had saved in the repo:
 
-# [dec_00_sf1_dp1.csv](dec_00_sf1_dp1.csv)
+# [dec_00_sf1_dp1.csv](../data/dec_00_sf1_dp1.csv)
 
-# [dec_10_sf1_sf1dp1.csv](dec_10_sf1_sf1dp1.csv)
+# [dec_10_sf1_sf1dp1.csv](../data/dec_10_sf1_sf1dp1.csv)
 
 # Column names to use.
 cols00 = {'geo_id2': 'id', 'geo_display_label': 'label',
