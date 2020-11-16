@@ -13,11 +13,6 @@ cols10 = {'geo_id2': 'id', 'geo_display_label': 'label',
           'hd01_s001': 'Population', 'hd01_s020': 'MedianAge',
           'hd02_s100': 'PercWhite'}
 
-# Select subset of downloaded data to use.
-c00 = census00[['geo_id2', 'geo_display_label', 'hc01_vc01',
-                'hc01_vc18', 'hc02_vc48']].copy().rename(columns=cols00)
-c10 = census10[['geo_id2', 'geo_display_label', 'hd01_s001',
-                'hd01_s020', 'hd02_s100']].copy().rename(columns=cols10)
                 
                 
                 
