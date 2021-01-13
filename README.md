@@ -4,7 +4,7 @@ a UD Biden School of Public Policy and Administration Class. Homework repository
 
 SPPA667: GENERATING AND INTERPRETING EVIDENCE FOR EVIDENCE-BASED DECISIONS IN URBAN ENVIRONMENTS
 
-Slides at (https://slides.com/federicabianco/decks/principles-of-urban-science)[https://slides.com/federicabianco/decks/principles-of-urban-science]
+Slides at [https://slides.com/federicabianco/decks/principles-of-urban-science](https://slides.com/federicabianco/decks/principles-of-urban-science)
 
 **Grades are based on:**
 
